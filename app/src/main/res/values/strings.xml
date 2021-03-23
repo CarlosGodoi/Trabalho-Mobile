@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trabalho 1</string>
+    <string name="BlueBank">BlueBank</string>
+    <string name="Acessar">Logar</string>
+    <string name="Name">Nome:</string>
+    <string name="Password">Senha:</string>
+    <string name="back">Voltar</string>
+    <string name="Splash">Inicio</string>
+    <string name="BoasVindas">Bem Vindo!</string>
+</resources>
